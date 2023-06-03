@@ -1,10 +1,9 @@
-# Car_price_prediction
+# `Car_price_prediction`
 **Project Description:** Car Price Prediction
 
 I undertook a project focused on car price prediction. The objective of this project was to develop a predictive model that could accurately estimate the prices of cars based on various features. This project allowed me to apply my skills in data analysis, machine learning, and programming to solve a real-world problem.
 
-## **Car Price Prediction with Machine Learning.**
-**Key-Points**
+**`Key-Points`**
 
 1. I gained a basic understanding of the data to familiarize myself with its structure, variables, and relationships.
 
@@ -20,7 +19,7 @@ I undertook a project focused on car price prediction. The objective of this pro
 
 7. I performed hyperparameter tuning to optimize the performance of my models. This involved tuning the hyperparameters using techniques like grid search, random search, or Bayesian optimization.
 
-8. I evaluated the performance of my models and achieved around 95% accuracy with the Random Forest Regression model.
+8. I evaluated the performance of my models and achieved around **`95% accuracy`** with the Random Forest Regression model.
 
 9. I analyzed the importance of each feature in predicting car prices. This analysis helped me understand the key factors that contribute the most to the price variation.
 
@@ -28,7 +27,7 @@ I undertook a project focused on car price prediction. The objective of this pro
 
 By following these steps, I successfully processed the data, trained accurate models, and gained insights into the important features affecting car prices.
 
-## Results:
+## `Results`
 Through this project, I successfully developed a car price prediction model with an accuracy rate around 95%. The model effectively estimated the prices of used cars based on their features, providing valuable insights to both buyers and sellers in the car market.
 
 This project enhanced my skills in data preprocessing, feature engineering, exploratory data analysis, model building(machine learning algorithms), model evaluation. It showcased my ability to handle real-world datasets, build predictive models, and communicate the results effectively.
