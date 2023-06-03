@@ -1,5 +1,5 @@
 # Car_price_prediction
-Project Description: Car Price Prediction
+**Project Description:** Car Price Prediction
 
 As part of my data science coursework, I undertook a project focused on car price prediction. The objective of this project was to develop a predictive model that could accurately estimate the prices of cars based on various features. This project allowed me to apply my skills in data analysis, machine learning, and programming to solve a real-world problem.
 
