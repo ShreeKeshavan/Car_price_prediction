@@ -1,7 +1,7 @@
 # `Car_price_prediction`
 **Project Description:** Car Price Prediction
 
-I undertook a project focused on car price prediction. The objective of this project was to develop a predictive model that could accurately estimate the prices of cars based on various features. This project allowed me to apply my skills in data analysis, machine learning, and programming to solve a real-world problem.
+I undertook a project focused on car price prediction. The objective of this project was to develop a predictive model that could accurately estimate the prices of cars based on various features. This project allowed me to apply my skills in data analysis, data visualization, machine learning, and in programming to solve a real-world problem.
 
 **`Key-Points`**
 
@@ -15,9 +15,9 @@ I undertook a project focused on car price prediction. The objective of this pro
 
 5. I prepared the data for model training and testing through data preprocessing. I encoded categorical variables, scaled numerical features, and split the dataset into training and testing sets.
 
-6. I trained the model using different machine learning algorithms, such as Random Forest Regression, Gradient Boosting Regression, Adaboost Regression, Decision Tree Regression, etc., to predict car prices.
+6. I trained the model using different machine learning algorithms, such as Linear Regression, Random Forest Regression, Gradient Boosting Regression, Adaboost Regression, Decision Tree Regression to predict car prices.
 
-7. I performed hyperparameter tuning to optimize the performance of my models. This involved tuning the hyperparameters using techniques like grid search, random search, or Bayesian optimization.
+7. I performed hyperparameter tuning to optimize the performance of my models. This involved tuning the hyperparameters using techniques like randomized search.
 
 8. I evaluated the performance of my models and achieved around **`R2 score - 95% `** with the Random Forest Regression model.
 
@@ -25,9 +25,9 @@ I undertook a project focused on car price prediction. The objective of this pro
 
 10. Based on the high accuracy achieved, I can utilize this model for predicting the price of a car in the future.
 
-By following these steps, I successfully processed the data, trained accurate models, and gained insights into the important features affecting car prices.
+By following these steps, I successfully processed the data, trained accurate models, and gained insights into the important features affecting car prices.It is recommended to consider deploying the Random Forest.
 
 ## `Results`
-Through this project, I successfully developed a car price prediction model with an accuracy rate around 95%. The model effectively estimated the prices of used cars based on their features, providing valuable insights to both buyers and sellers in the car market.
+Through this project, I successfully developed a car price prediction model with r2 score around 95%. The model effectively estimated the prices of used cars based on their features, providing valuable insights to both buyers and sellers in the car market.
 
-This project enhanced my skills in data preprocessing, feature engineering, exploratory data analysis, model building(machine learning algorithms), model evaluation. It showcased my ability to handle real-world datasets, build predictive models, and communicate the results effectively.
+This project enhanced my skills and ability to handle real-world datasets, build predictive models, and communicate the results effectively.
