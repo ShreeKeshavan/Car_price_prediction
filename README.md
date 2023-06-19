@@ -19,7 +19,7 @@ I undertook a project focused on car price prediction. The objective of this pro
 
 7. I performed hyperparameter tuning to optimize the performance of my models. This involved tuning the hyperparameters using techniques like grid search, random search, or Bayesian optimization.
 
-8. I evaluated the performance of my models and achieved around **`95% accuracy`** with the Random Forest Regression model.
+8. I evaluated the performance of my models and achieved around **`R2 score - 95% `** with the Random Forest Regression model.
 
 9. I analyzed the importance of each feature in predicting car prices. This analysis helped me understand the key factors that contribute the most to the price variation.
 
